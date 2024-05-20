@@ -1,0 +1,71 @@
+Durante um passeio escolar ao museu, Pedro vê você observando atentamente uma exposição sobre dinossauros. Ele percebe que você está fazendo anotações em seu caderno e, curioso, decide puxar conversa+
+
+Pedro: Você está anotando muitas coisas sobre dinossauros. Você gosta muito deles?$
+
+Sim, eu acho dinossauros incrivelmente fascinantes! Eles dominaram a Terra por mais de 160 milhões de anos e cada espécie tinha características únicas.; Sim, gosto muito de estudar sobre eles.; Claro que gosto. Quem não acha dinossauros interessantes?; Sim_
+
+Durante uma atividade em grupo na escola, Pedro percebe que você está desenhando no seu caderno enquanto espera a próxima tarefa. Curioso, ele se aproxima para ver melhor o que você está fazendo.+
+
+Pedro: Uau, seus desenhos são incríveis! Você gosta muito de desenhar?$
+
+Sim, eu amo desenhar! Eu gosto de criar personagens e histórias, e passo horas praticando diferentes técnicas.; Sim, gosto muito.; É, eu desenho. E daí?; Talvez. Por que você quer saber?_
+
+Durante uma feira de ciências na escola, você está apresentando um projeto sobre energias renováveis. Pedro, passando pelos estandes, para no seu projeto e começa a fazer perguntas.+
+
+Pedro: Oi, seu projeto sobre energias renováveis é muito interessante! O que te fez escolher esse tema?$
+
+Obrigado! Eu escolhi esse tema porque  acredito que as energias renováveis são a chave para um futuro sustentável.; Acho que é um tema importante para o futuro.; Escolhi porque tinha que escolher algo.; Não sei, só escolhi. Por que você quer saber?_
+
+Ana, a professora de biologia da sua turma, decide abordar individualmente cada aluno no início do semestre para entender melhor suas expectativas em relação à disciplina. Ela te chama para uma conversa rápida após a aula.+
+
+Ana: Como você está se sentindo em relação à disciplina de biologia deste semestre?$
+
+Estou me sentindo bem! Eu sempre gostei de biologia, especialmente quando falamos sobre ecossistemas. Mal posso esperar para aprender mais e quem sabe até realizar alguns experimentos práticos.; Acho que estou bem. Não tenho nada em particular que queira aprender.; Já tive aulas de biologia antes. Não espero que essa seja muito diferente. Só estou aqui porque tenho que estar.; Não pensei muito sobre isso ainda. Só estou aqui para cumprir os requisitos do currículo._
+
+Durante uma atividade em grupo na aula de literatura, Ana observa que você está mais calado do que o habitual e decide abordá-lo após a aula.+
+
+Ana: Notei que você estava mais quieto hoje durante a atividade em grupo. Está tudo bem?$
+
+Ah, é que eu estava um pouco cansado hoje, mas está tudo bem, não se preocupe. A atividade foi interessante, apesar de tudo.; Estou bem, só não estava muito animado com a atividade.; Não foi nada, só não estava com vontade de falar muito hoje.; Não sei, não estava prestando muita atenção. Acho que estava distraído._
+
+Durante a apresentação de um trabalho em grupo na aula de história, Ana percebe que você pareceu um pouco desconfortável durante a exposição e decide abordá-lo após a aula.+
+
+Ana: Você pareceu um pouco desconfortável durante a apresentação do trabalho em grupo. Está tudo bem?$
+
+Na verdade, fiquei um pouco nervoso(a) porque não estava totalmente confiante na parte que me coube apresentar. Mas foi uma experiência interessante, e acho que aprendi bastante com isso.; Está tudo bem, só não estava muito à vontade com a apresentação.; Não sei por que você está perguntando, não foi nada demais.; Não sei, talvez seja só impressão sua. Acho que estava apenas um pouco nervoso(a) com a apresentação._
+
+Você chega em casa depois da escola e encontra sua mãe, Carla, na cozinha preparando o jantar. Ela percebe que você parece um pouco abatido e decide perguntar como foi o seu dia.+
+
+Carla: Oi, querido(a), como foi o seu dia na escola?$
+
+Oi, mãe! Foi ótimo! Tivemos uma aula de ciências muito interessante sobre astronomia e depois jogamos um pouco de futebol no intervalo. Foi divertido!; Foi normal, mãe. Nada de especial.; Já te disse, mãe, foi só mais um dia chato na escola.; Ah, você sabe como é, mãe. Nada de mais aconteceu._
+
+Você está em seu quarto estudando para uma prova importante quando sua mãe, Carla, entra para verificar como você está se preparando.+
+
+Carla: Oi querido(a), como estão os estudos? Precisa de alguma ajuda?$
+
+Oi mãe! Está tudo bem por aqui. Estou revisando o conteúdo e fazendo alguns exercícios. Obrigado(a)!; Tudo bem, mãe. Estou estudando.; Não, mãe. Já te disse que estou estudando. Não precisa se preocupar tanto.; Está tudo sob controle, mãe. Não precisa se preocupar. Vou terminar logo._
+
+Você está na sala de estar com seus pais, Carla e João, quando eles percebem que você está um pouco quieto(a) e decidem perguntar como você está se sentindo.+
+
+Carla: Querido(a), você parece um pouco quieto(a) hoje. Está tudo bem?$
+
+Ah, é só que estou um pouco cansado(a) hoje, mas está tudo bem. Acho que foi só um dia longo na escola.; Estou bem, pai, mãe. Só um pouco cansado(a).; Não é nada demais, pai. Só estou quieto(a) mesmo.; Não se preocupem, estou só um pouco distraído(a) hoje. Mas não é nada importante._
+
+Você está na porta de casa quando encontra seu amigo e vizinho, Tadeu, que parece um pouco preocupado. Ele decide se abrir e contar sobre algo que aconteceu recentemente.+
+
+Tadeu: Ei, você tem um tempinho para conversar? Preciso desabafar sobre algo que aconteceu.$
+
+Claro, Tadeu, estou aqui para você. O que aconteceu? Pode me contar tudo.; Claro, estou curioso(a) para saber o que aconteceu. Pode contar para mim.; Ah, agora não é um bom momento, Tadeu. Talvez depois a gente possa conversar.; Hmm, não sei se quero me envolver nisso agora, Tadeu. Talvez outro dia._
+
+Você está saindo de casa quando encontra Tadeu na calçada, parecendo um pouco agitado. Ele parece precisar de ajuda com algo e decide se aproximar para pedir seu auxílio.+
+
+Tadeu: Ei, você pode me dar uma mão com algo? Preciso resolver um problema e não sei por onde começar.$
+
+Claro, Tadeu, pode contar comigo. O que precisa fazer? Vamos resolver isso juntos.; Claro, estou à disposição para ajudar. Qual é o problema? Podemos pensar em algumas soluções juntos.; Ah, não sei se tenho tempo agora, Tadeu. Talvez outro dia a gente possa ver isso.; Hmm, não sei se é uma boa ideia me envolver nisso agora, Tadeu. Talvez você consiga resolver por conta própria._
+
+Você e Tadeu estão na sua casa, jogando videogame juntos. Vocês estão disputando uma partida acirrada e Tadeu parece estar prestes a vencer.+
+
+Tadeu: Cara, essa partida está incrível! Estou quase ganhando de você.$
+
+Veremos, Tadeu! Ainda não acabou. Vou virar o jogo e te mostrar quem é o verdadeiro campeão!; É, parece que você está se saindo bem mesmo. Mas ainda tem muito jogo pela frente, não se empolgue demais!; Ah, droga! Você sempre ganha! Não sei por que eu ainda insisto nisso...; Legal, Tadeu. Você pode até ganhar, mas eu estou meio cansado hoje, então não estou muito focado no jogo._

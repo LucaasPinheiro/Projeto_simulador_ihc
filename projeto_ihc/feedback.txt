@@ -1,0 +1,32 @@
+Pedro;Pedro se interessou e vocês continuaram conversando animadamente.
+Pedro;Pedro ficou impressionado com seu conhecimento e quis saber mais.
+Pedro;Pedro concordou e iniciou uma conversa amigável.
+Pedro;Pedro sorriu e fez mais algumas perguntas.
+Pedro;Pedro ficou um pouco desconcertado, mas tentou mudar de assunto.
+Pedro;Pedro percebeu seu tom e decidiu se afastar.
+Pedro;Pedro entendeu que você não queria conversar e respeitou seu espaço.
+Pedro;Pedro percebeu que você não estava à vontade e deu espaço para você.
+Ana;Sua resposta detalhada e entusiasmada deixou Ana encorajada e satisfeita, percebendo o entusiasmo do aluno e criando uma conexão positiva desde o início do semestre.
+Ana;Sua resposta entusiasmada reforçou a confiança de Ana em sua capacidade de envolver os alunos e promover um ambiente de aprendizado dinâmico.
+Ana;Sua resposta breve e direta fez Ana sentir que precisava fazer mais esforço para compreender suas expectativas, considerando-a sucinta.
+Ana;A resposta sucinta deixou Ana com a sensação de que era necessário mais diálogo para entender completamente as necessidades individuais do aluno.
+Ana;Sua atitude indiferente deixou Ana desanimada e preocupada com a falta de engajamento na disciplina.
+Ana;A apática resposta fez Ana questionar como envolver melhor os alunos e promover um interesse genuíno na disciplina.
+Ana;Sua resposta evasiva deixou Ana frustrada e incapaz de compreender plenamente suas necessidades.
+Ana;A falta de clareza em sua resposta levou Ana a sentir que era necessário mais esforço para estabelecer uma comunicação eficaz e compreender suas expectativas.
+Carla;Sua resposta detalhada e entusiasmada deixou sua Mãe feliz e reconfortada, percebendo que você está aproveitando a escola e se envolvendo em atividades interessantes.
+Carla;Sua resposta deixou sua Mãe orgulhosa e satisfeita por ver seu entusiasmo em compartilhar suas experiências.
+Carla;Sua resposta sucinta deixou sua Mãe um pouco preocupada, sentindo que você pode não estar tão aberto(a) para compartilhar seus sentimentos ou experiências.
+Carla;Sua resposta deixou sua Mãe com a sensação de que talvez você não queira compartilhar muito sobre seu dia, o que a deixou um pouco desconfortável.
+Carla;Sua resposta um tanto rude deixou sua Mãe preocupada e um pouco magoada, pois sentiu que você não estava disposto(a) a compartilhar seus sentimentos ou experiências.
+Carla;Sua atitude apática deixou sua Mãe um pouco desconcertada, percebendo que talvez você esteja passando por algum problema emocional ou estresse.
+Carla;Sua resposta evasiva deixou sua Mãe um pouco frustrada e confusa, pois ela gostaria de saber mais sobre como foi o seu dia na escola.
+Carla;Sua resposta deixou sua Mãe um pouco desanimada, percebendo que você pode estar se fechando emocionalmente e não está muito disposto(a) a compartilhar suas experiências.
+Tadeu;Sua resposta empolgada e competitiva deixou Tadeu ainda mais animado para continuar jogando, alimentando a diversão e a competição saudável entre vocês.
+Tadeu;A energia competitiva presente em sua resposta motivou Tadeu a se esforçar mais no jogo, mantendo o clima animado e divertido.
+Tadeu;Tadeu achou graça na sua resposta descontraída e brincalhona, percebendo que o clima de diversão era mais importante do que a competição em si.
+Tadeu;A sua resposta brincalhona deixou Tadeu mais relaxado e confortável durante o jogo, permitindo que ambos aproveitassem o momento sem pressão
+Tadeu;Sua resposta irritada e ressentida deixou Tadeu desconfortável e preocupado, percebendo que talvez você não estivesse se divertindo tanto quanto deveria.
+Tadeu;Tadeu sentiu-se mal ao perceber sua frustração e tentou animá-lo, sugerindo que o importante era se divertir, independentemente do resultado do jogo.
+Tadeu;Sua resposta desinteressada deixou Tadeu um pouco desanimado, percebendo que você não estava tão envolvido no jogo quanto ele gostaria.
+Tadeu;Tadeu ficou com a sensação de que você não estava aproveitando o momento tanto quanto ele, o que diminuiu um pouco o clima de diversão.
